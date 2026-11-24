@@ -37,7 +37,7 @@ Two sets of bands appear in the workbook. They are recorded here as found; the o
 | Low | 1 to 5 | 1 to 5 |
 | Medium | 6 to 11 | 6 to 11 |
 | High | 12 to 19 | 12 to 19 |
-| Critical | 20 to 25 | 16 to 25 |
+| Critical | 20 to 25 | 20 to 25 |
 
 The Task 1 ratings in the `RISK SCORE REGISTER` sheet use the **20 to 25 Critical** band. See [open item OI-01](04-assumptions-and-open-items.md).
 
